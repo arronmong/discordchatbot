@@ -1,0 +1,8 @@
+#Discord library for bot interaction
+discord.py
+
+#For making asynchronous HTTP requests to the AI server
+aiohttp
+
+#For loading variables from the .env file
+python-dotenv
